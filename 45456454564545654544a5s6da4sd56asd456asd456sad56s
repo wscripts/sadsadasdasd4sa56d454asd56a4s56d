@@ -1,0 +1,3 @@
+game:GetService("RunService"):Set3dRenderingEnabled(false)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wscripts/psx/main/script"))()
